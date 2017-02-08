@@ -1,2 +1,2 @@
-# dataquest
-Projects from dataquest.io
+# Dataquest
+Projects from [dataquest.io](https://www.dataquest.io)
